@@ -22,6 +22,6 @@ To clone and run the application, you will need to have [Git](https://git-scm.co
 ```bash
 # Create new project
 
-$ degit https://github.com/YagoLopes/template-nextjs-typescript [NOME_DO_PROJETO]
+$ npx degit https://github.com/YagoLopes/template-nextjs-typescript [NOME_DO_PROJETO]
 
 ```
